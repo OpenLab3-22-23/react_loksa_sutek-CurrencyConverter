@@ -20,7 +20,15 @@
       vertical-align: middle;
       display: inline-block;
   }
-.submit-button{
+
+
+  
+#submitButton{
+  display: flex;
+  justify-content: center;
+}
+
+#header {
   display: flex;
   justify-content: center;
 }
